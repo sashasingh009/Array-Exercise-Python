@@ -1,5 +1,3 @@
-git config --global user.email "sasha.singh009@gmail.com"
-git config --global user.name "sashasingh009"
 
 expense = [
     ['January',2200],['February',2350],['March',2600],
